@@ -1,0 +1,27 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Logs and system files
+*.log
+.DS_Store
+Thumbs.db
+
+# Virtual environments or env files
+.env
+.venv/
+ENV/
+env/
+venv/
+
+# Large or compressed data files
+*.zip
+*.h5
+*.pkl
+
+# Temporary files
+*.tmp
+*.bak
